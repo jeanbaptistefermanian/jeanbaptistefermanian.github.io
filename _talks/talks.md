@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
 - /talks.html
 ---
-
 - **Seminar of Probability and Statistics**, Université Gustave-Eiffel, Marne-la-Vallée, April 2024.
 - **Workshop ASCAI**, Universität Potsdam, Potsdam, February 2024.
 - **Workshop FAST-BIG**, IHP, Paris, October 2023.
