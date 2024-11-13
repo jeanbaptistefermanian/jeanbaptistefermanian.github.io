@@ -6,11 +6,11 @@ redirect_from:
 - /publications.html
 ---
 
-### Preprints:
+## Preprints:
  - Gilles Blanchard, Jean-Baptiste Fermanian, Hannah Marienwald. **Estimation of multiple mean vectors in high dimension**, 2024.
  [arXiv](https://arxiv.org/pdf/2403.15038)
 
-### Published papers:
+## Published papers:
 
 - Gilles Blanchard, Jean-Baptiste Fermanian. **Nonasymptotic one-and two-sample tests in high dimension with unknown covariance structure**.\
 Foundations of Modern Statistics (Festschrift in Honor of Vladimir Spokoiny), 2023. [arXiv](https://arxiv.org/pdf/2109.01730)
