@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
 - /publications.html
 ---
-
 ## Preprints:
  - **Estimation of multiple mean vectors in high dimension**.\
  Gilles Blanchard, Jean-Baptiste Fermanian, Hannah Marienwald.\
