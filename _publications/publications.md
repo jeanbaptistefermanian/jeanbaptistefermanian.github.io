@@ -9,7 +9,7 @@ redirect_from:
 ## Preprints:
  - **Estimation of multiple mean vectors in high dimension**.\
  Gilles Blanchard, Jean-Baptiste Fermanian, Hannah Marienwald.\
- 2024, [arXiv](https://arxiv.org/pdf/2403.15038)
+ 2024. [arXiv](https://arxiv.org/pdf/2403.15038)
 
 ## Published papers:
 
@@ -24,4 +24,9 @@ AISTATS, 2021. [arXiv](https://arxiv.org/pdf/2011.06794)
 - **An example of failure of stochastic homogenization for viscous Hamilton-Jacobi equations without convexity**.\
  William M. Feldman, Jean-Baptiste Fermanian, Bruno Ziliotto.\
 Journal of Differential Equations, 2021. [arXiv](https://arxiv.org/pdf/1905.07295)
+
+## Phd manuscript
+- **High dimensional multiple means estimation and testing with applications to machine learning**
+Jean-Baptiste Fermanian.\
+2024. [HAL](https://theses.hal.science/tel-04744920v1/document)
 
