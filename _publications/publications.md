@@ -24,6 +24,6 @@ AISTATS, 2021. [arXiv](https://arxiv.org/pdf/2011.06794)
 Journal of Differential Equations, 2021. [arXiv](https://arxiv.org/pdf/1905.07295)
 
 ## Phd manuscript
-- **High dimensional multiple means estimation and testing with applications to machine learning**
+- **High dimensional multiple means estimation and testing with applications to machine learning**.\
 Jean-Baptiste Fermanian, 2024. [HAL](https://theses.hal.science/tel-04744920v1/document)
 
