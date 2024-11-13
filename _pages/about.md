@@ -11,7 +11,7 @@ I am currently a postdoc in Alexander Grothendieck Montpellier Institute (IMAG) 
 
 In October 2024, I have defended by Phd at the University Paris-Saclay that I have done under the supervision of Gilles Blanchard and Magalie Fromont.
 
-### Research interests
+## Research interests
 
 - Multitask learning
 - High dimension
