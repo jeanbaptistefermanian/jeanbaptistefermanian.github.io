@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My full CV in pdf: [CV](https://jeanbaptistefermanian.github.io/files/CV.pdf)
+My full CV in pdf: [CV](https://jeanbaptistefermanian.github.io/files/CV.pdf).
