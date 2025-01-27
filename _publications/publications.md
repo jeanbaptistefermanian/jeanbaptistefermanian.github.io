@@ -6,6 +6,9 @@ redirect_from:
 - /publications.html
 ---
 ## Preprints:
+- **Transductive Conformal Inference for Ranking**.\
+Jean-Baptiste Fermanian, Pierre Humbert, Gilles Blanchard, 2025. [arXiv](https://arxiv.org/abs/2501.11384)
+
  - **Estimation of multiple mean vectors in high dimension**.\
 Gilles Blanchard, Jean-Baptiste Fermanian, Hannah Marienwald, 2024. [arXiv](https://arxiv.org/pdf/2403.15038)
 
