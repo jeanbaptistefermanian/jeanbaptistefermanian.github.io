@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
 - /talks.html
 ---
-- **CAp : Conférence sur l'Apprentissage Automatique**, July, 2025. (poster)
+- **CAp : Conférence sur l'Apprentissage Automatique**, Dijon, July, 2025. (poster)
 - **Journée de Statistique de la SFDS**, Aix-Marseille Université, June, 2025.
 - **ML-MTP : Machine Learning in Montpellier**, Inria, Montpellier, December 2024.
 - **Seminar of Probability and Statistics**, Université Gustave-Eiffel, Marne-la-Vallée, April 2024.
