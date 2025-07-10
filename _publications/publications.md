@@ -6,6 +6,9 @@ redirect_from:
 - /publications.html
 ---
 ## Preprints:
+- **Conformal Prediction for Long-Tailed Classification**.\
+Tiffany Ding, Jean-Baptiste Fermanian, Joseph Salmon, 2025. [arXiv](https://arxiv.org/abs/2507.06867) [code](https://github.com/tiffanyding/long-tail-conformal)
+
 - **Transductive Conformal Inference for full Ranking**.\
 Jean-Baptiste Fermanian, Pierre Humbert, Gilles Blanchard, 2025. [arXiv](https://arxiv.org/abs/2501.11384) [code](https://github.com/pierreHmbt/transductive-conformal-inference-for-ranking)
 
