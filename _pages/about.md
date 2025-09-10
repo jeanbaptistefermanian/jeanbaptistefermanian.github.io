@@ -15,7 +15,7 @@ In October 2024, I have defended by Phd at the University Paris-Saclay that I ha
 ## Research interests
 
 - Multitask learning
-- Multiple testing
+- Federated learning
 - High dimension
 - Conformal prediction
 
