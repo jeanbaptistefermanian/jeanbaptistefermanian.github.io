@@ -6,12 +6,11 @@ redirect_from:
 - /publications.html
 ---
 ## Preprints:
- - **Estimation of multiple mean vectors in high dimension**.\
-Gilles Blanchard, Jean-Baptiste Fermanian, Hannah Marienwald, 2024. [arXiv](https://arxiv.org/pdf/2403.15038)
-
 - **Conformal Prediction for Long-Tailed Classification**.\
 Tiffany Ding, Jean-Baptiste Fermanian, Joseph Salmon, 2025. [arXiv](https://arxiv.org/abs/2507.06867) [code](https://github.com/tiffanyding/long-tail-conformal)
 
+ - **Estimation of multiple mean vectors in high dimension**.\
+Gilles Blanchard, Jean-Baptiste Fermanian, Hannah Marienwald, 2024. [arXiv](https://arxiv.org/pdf/2403.15038)
 
 ## Published papers:
 
