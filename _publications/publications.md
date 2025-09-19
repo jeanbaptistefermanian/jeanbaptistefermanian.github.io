@@ -19,7 +19,7 @@ Jean-Baptiste Fermanian, Mohamed Hebiri, Joseph Salmon.\
 Accepted at Neurips 2025. [arXiv](https://arxiv.org/abs/2507.07150) [code](https://github.com/jeanbaptistefermanian/Class_Conditional_CP_for_Multi_Inputs)
 
 - **Transductive Conformal Inference for full Ranking**.\
-Jean-Baptiste Fermanian, Pierre Humbert, Gilles Blanchard.\ 
+Jean-Baptiste Fermanian, Pierre Humbert, Gilles Blanchard.\
 Accepted at Neurips 2025. [arXiv](https://arxiv.org/abs/2501.11384) [code](https://github.com/pierreHmbt/transductive-conformal-inference-for-ranking)
 
 - **Nonasymptotic one-and two-sample tests in high dimension with unknown covariance structure**.\
