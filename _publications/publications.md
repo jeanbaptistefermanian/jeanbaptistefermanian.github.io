@@ -6,19 +6,22 @@ redirect_from:
 - /publications.html
 ---
 ## Preprints:
-- **Class conditional conformal prediction for multiple inputs by p-value aggregation**.\
-Jean-Baptiste Fermanian, Mohamed Hebiri, Joseph Salmon, 2025. [arXiv](https://arxiv.org/abs/2507.07150) [code](https://github.com/jeanbaptistefermanian/Class_Conditional_CP_for_Multi_Inputs)
+ - **Estimation of multiple mean vectors in high dimension**.\
+Gilles Blanchard, Jean-Baptiste Fermanian, Hannah Marienwald, 2024. [arXiv](https://arxiv.org/pdf/2403.15038)
 
 - **Conformal Prediction for Long-Tailed Classification**.\
 Tiffany Ding, Jean-Baptiste Fermanian, Joseph Salmon, 2025. [arXiv](https://arxiv.org/abs/2507.06867) [code](https://github.com/tiffanyding/long-tail-conformal)
 
-- **Transductive Conformal Inference for full Ranking**.\
-Jean-Baptiste Fermanian, Pierre Humbert, Gilles Blanchard, 2025. [arXiv](https://arxiv.org/abs/2501.11384) [code](https://github.com/pierreHmbt/transductive-conformal-inference-for-ranking)
-
- - **Estimation of multiple mean vectors in high dimension**.\
-Gilles Blanchard, Jean-Baptiste Fermanian, Hannah Marienwald, 2024. [arXiv](https://arxiv.org/pdf/2403.15038)
 
 ## Published papers:
+
+- **Class conditional conformal prediction for multiple inputs by p-value aggregation**.\
+Jean-Baptiste Fermanian, Mohamed Hebiri, Joseph Salmon,.\
+Accepted at Neurips 2025. [arXiv](https://arxiv.org/abs/2507.07150) [code](https://github.com/jeanbaptistefermanian/Class_Conditional_CP_for_Multi_Inputs)
+
+- **Transductive Conformal Inference for full Ranking**.\
+Jean-Baptiste Fermanian, Pierre Humbert, Gilles Blanchard.\ 
+Accepted at Neurips 2025. [arXiv](https://arxiv.org/abs/2501.11384) [code](https://github.com/pierreHmbt/transductive-conformal-inference-for-ranking)
 
 - **Nonasymptotic one-and two-sample tests in high dimension with unknown covariance structure**.\
 Gilles Blanchard, Jean-Baptiste Fermanian.\
