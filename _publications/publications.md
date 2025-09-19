@@ -16,7 +16,7 @@ Tiffany Ding, Jean-Baptiste Fermanian, Joseph Salmon, 2025. [arXiv](https://arxi
 ## Published papers:
 
 - **Class conditional conformal prediction for multiple inputs by p-value aggregation**.\
-Jean-Baptiste Fermanian, Mohamed Hebiri, Joseph Salmon,.\
+Jean-Baptiste Fermanian, Mohamed Hebiri, Joseph Salmon.\
 Accepted at Neurips 2025. [arXiv](https://arxiv.org/abs/2507.07150) [code](https://github.com/jeanbaptistefermanian/Class_Conditional_CP_for_Multi_Inputs)
 
 - **Transductive Conformal Inference for full Ranking**.\
