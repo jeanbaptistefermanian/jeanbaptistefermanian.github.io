@@ -10,7 +10,7 @@ I will begin in October 2025 a postdoc at [PreMeDICal](https://team.inria.fr/pre
 
 I am currently a postdoctoral researcher in Alexander Grothendieck Montpellier Institute (IMAG) of the university of Montpellier and in [IROKO](https://inria.fr/fr/iroko) team of Inria with Joseph Salmon and Mohamed Hebiri.
 
-In October 2024, I have defended by Phd at the University Paris-Saclay that I have done under the supervision of Gilles Blanchard and Magalie Fromont.
+In October 2024, I have defended my Phd at the University Paris-Saclay that I have done under the supervision of Gilles Blanchard and Magalie Fromont.
 
 ## Research interests
 
