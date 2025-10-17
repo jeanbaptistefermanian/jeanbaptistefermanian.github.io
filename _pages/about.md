@@ -18,5 +18,5 @@ In October 2024, I have defended my Phd at the University Paris-Saclay that I ha
 - Federated learning
 - High dimension
 - Conformal prediction
-- Biological applications
+- Ecological applications/citizen science
 
