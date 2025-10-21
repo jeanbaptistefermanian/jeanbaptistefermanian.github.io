@@ -5,6 +5,17 @@ author_profile: true
 redirect_from: 
 - /talks.html
 ---
+
+- **VITE 2025**, Montpellier. *December 2025*
+- **Neurips 2025**, San Diego. (poster) *December 2025*
+- **Team Seminar**, UC Berkeley. *November 2025*
+- **Seminaire Probabilités et Statistiques**, Université d'Angers. *November 2025*
+- **Team seminar MAGNET team**, Inria Lille. *November 2025*
+- **MADSTAT Seminar**, Toulouse School of Economics, Toulouse. *November 2025*
+- **Statistics seminar of Télécom Paris**, Télécom Paris, Paris. *October 2025*
+- **Statistics seminar of CEREMADE**, Université Paris-Dauphine. *September 2025*
+- **Intern seminar of MISTAE**, Inrae, Montpellier. *September 2025*
+- **Stat Maths appli workshop**, Fréjus. (poster) *September 2025*
 - **CAp : Conférence sur l'Apprentissage Automatique**, Dijon, July, 2025. (poster)
 - **Journée de Statistique de la SFDS**, Aix-Marseille Université, June, 2025.
 - **ML-MTP : Machine Learning in Montpellier**, Inria, Montpellier, December 2024.
