@@ -9,8 +9,6 @@ redirect_from:
 - **Conformal Prediction for Long-Tailed Classification**.\
 Tiffany Ding, Jean-Baptiste Fermanian, Joseph Salmon, 2025. [arXiv](https://arxiv.org/abs/2507.06867), [code](https://github.com/tiffanyding/long-tail-conformal), [blog post](https://josephsalmon.eu/blog/long-tail/)
 
- - **Estimation of multiple mean vectors in high dimension**.\
-Gilles Blanchard, Jean-Baptiste Fermanian, Hannah Marienwald, 2024. [arXiv](https://arxiv.org/pdf/2403.15038)
 
 ## Published papers:
 
@@ -21,6 +19,11 @@ Accepted at Neurips 2025. [arXiv](https://arxiv.org/abs/2507.07150) [code](https
 - **Transductive Conformal Inference for full Ranking**.\
 Jean-Baptiste Fermanian, Pierre Humbert, Gilles Blanchard.\
 Accepted at Neurips 2025. [arXiv](https://arxiv.org/abs/2501.11384) [code](https://github.com/pierreHmbt/transductive-conformal-inference-for-ranking)
+
+
+ - **Estimation of multiple mean vectors in high dimension**.\
+Gilles Blanchard, Jean-Baptiste Fermanian, Hannah Marienwald.\
+Accepted at Journal of the Royal Statistical Society Series B, (discussion paper), 2024. [arXiv](https://arxiv.org/pdf/2403.15038)
 
 - **Nonasymptotic one-and two-sample tests in high dimension with unknown covariance structure**.\
 Gilles Blanchard, Jean-Baptiste Fermanian.\
