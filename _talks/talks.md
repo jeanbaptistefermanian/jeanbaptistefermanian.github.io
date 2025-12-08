@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 ### 2025
+- **New challenges in high-dimensional statistics**, Marseille, *December 2025*
 - **VITE 2025**, Montpellier. *December 2025*
 - **Neurips 2025**, San Diego. (poster) *December 2025*
 - **Team Seminar**, UC Berkeley. *November 2025*
@@ -19,6 +20,7 @@ redirect_from:
 - **Stat Maths appli workshop**, Fréjus. (poster) *September 2025*
 - **CAp : Conférence sur l'Apprentissage Automatique**, Dijon, July, 2025. (poster)
 - **Journée de Statistique de la SFDS**, Aix-Marseille Université, June, 2025.
+### 2024
 - **ML-MTP : Machine Learning in Montpellier**, Inria, Montpellier, December 2024.
 - **Seminar of Probability and Statistics**, Université Gustave-Eiffel, Marne-la-Vallée, April 2024.
 - **Workshop ASCAI**, Universität Potsdam, Potsdam, February 2024.
