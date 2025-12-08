@@ -7,9 +7,9 @@ redirect_from:
 ---
 
 ### 2025
-- **New challenges in high-dimensional statistics**, Marseille, *December 2025*
+- **New challenges in high-dimensional statistics**, Marseille. *December 2025*
 - **VITE 2025**, Montpellier. *December 2025*
-- **Neurips 2025**, San Diego. (poster) *December 2025*
+- **Neurips 2025**, San Diego. *December 2025* (poster)
 - **Team Seminar**, UC Berkeley. *November 2025*
 - **Seminaire Probabilités et Statistiques**, Université d'Angers. *November 2025*
 - **Team seminar MAGNET team**, Inria Lille. *November 2025*
@@ -17,7 +17,7 @@ redirect_from:
 - **Statistics seminar of Télécom Paris**, Télécom Paris, Paris. *October 2025*
 - **Statistics seminar of CEREMADE**, Université Paris-Dauphine. *September 2025*
 - **Intern seminar of MISTAE**, Inrae, Montpellier. *September 2025*
-- **Stat Maths appli workshop**, Fréjus. (poster) *September 2025*
+- **Stat Maths appli workshop**, Fréjus. *September 2025*. (poster)
 - **CAp : Conférence sur l'Apprentissage Automatique**, Dijon, July, 2025. (poster)
 - **Journée de Statistique de la SFDS**, Aix-Marseille Université, June, 2025.
 
