@@ -5,12 +5,15 @@ author_profile: true
 redirect_from: 
 - /publications.html
 ---
-## Preprints:
-- **Conformal Prediction for Long-Tailed Classification**.\
-Tiffany Ding, Jean-Baptiste Fermanian, Joseph Salmon, 2025. [arXiv](https://arxiv.org/abs/2507.06867), [code](https://github.com/tiffanyding/long-tail-conformal), [blog post](https://josephsalmon.eu/blog/long-tail/)
+<!-- ## Preprints: -->
+
 
 
 ## Published papers:
+
+- **Conformal Prediction for Long-Tailed Classification**.\
+Tiffany Ding, Jean-Baptiste Fermanian, Joseph Salmon.\
+Accepted at ICLR 2026. [arXiv](https://arxiv.org/abs/2507.06867), [code](https://github.com/tiffanyding/long-tail-conformal), [blog post](https://josephsalmon.eu/blog/long-tail/)
 
 - **Class conditional conformal prediction for multiple inputs by p-value aggregation**.\
 Jean-Baptiste Fermanian, Mohamed Hebiri, Joseph Salmon.\
