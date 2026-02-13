@@ -10,8 +10,6 @@ redirect_from:
 - **Séminaire EPS**, Université de Montpellier. *February 2026*
 - **Séminaire Probabilités et Statistiques**, Université de Besançon. *January 2026*
 
-
-
 ### 2025
 - **New challenges in high-dimensional statistics**, Marseille. *December 2025*
 - **VITE 2025**, Montpellier. *December 2025*
