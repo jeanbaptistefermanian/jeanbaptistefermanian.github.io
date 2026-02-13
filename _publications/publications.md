@@ -8,7 +8,7 @@ redirect_from:
 ## Preprints:
 
 - **Adaptive Personalized Federated Learning via Multi-task Averaging of Kernel Mean Embeddings**.\
-Jean-Baptiste Fermanian, Batiste Le Bars, Aurélien Bellet. [HAL](https://hal.science/hal-05506908)
+Jean-Baptiste Fermanian, Batiste Le Bars, Aurélien Bellet, 2026. [HAL](https://hal.science/hal-05506908)
 
 
 ## Published papers:
