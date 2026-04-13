@@ -7,6 +7,10 @@ redirect_from:
 ---
 
 ### 2026
+- **CMAP seminar**, Polytechnique, Gif-sur-Yvette. *April 2026*
+- **Conférence SFR Mathstic**, Angers. *March 2026* 
+- **CIRAD seminar**, CIRAD, Montpellier. *March 2026*
+- **FedMalin seminar**, online. *March 2026*
 - **Séminaire EPS**, Université de Montpellier. *February 2026*
 - **Séminaire Probabilités et Statistiques**, Université de Besançon. *January 2026*
 
