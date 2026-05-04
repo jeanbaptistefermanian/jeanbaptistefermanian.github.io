@@ -5,13 +5,12 @@ author_profile: true
 redirect_from: 
 - /publications.html
 ---
-## Preprints:
+<!-- ## Preprints: -->
+## Published papers:
 
 - **Adaptive Personalized Federated Learning via Multi-task Averaging of Kernel Mean Embeddings**.\
-Jean-Baptiste Fermanian, Batiste Le Bars, Aurélien Bellet, 2026. [HAL](https://hal.science/hal-05506908)
-
-
-## Published papers:
+Jean-Baptiste Fermanian, Batiste Le Bars, Aurélien Bellet, 2026.\
+Accepted at ICML 2026. [HAL](https://hal.science/hal-05506908)
 
 - **Conformal Prediction for Long-Tailed Classification**.\
 Tiffany Ding, Jean-Baptiste Fermanian, Joseph Salmon.\
@@ -19,11 +18,11 @@ Accepted at ICLR 2026. [arXiv](https://arxiv.org/abs/2507.06867), [code](https:/
 
 - **Class conditional conformal prediction for multiple inputs by p-value aggregation**.\
 Jean-Baptiste Fermanian, Mohamed Hebiri, Joseph Salmon.\
-Accepted at Neurips 2025. [arXiv](https://arxiv.org/abs/2507.07150) [code](https://github.com/jeanbaptistefermanian/Class_Conditional_CP_for_Multi_Inputs)
+NeurIPS 2025. [arXiv](https://arxiv.org/abs/2507.07150) [code](https://github.com/jeanbaptistefermanian/Class_Conditional_CP_for_Multi_Inputs)
 
 - **Transductive Conformal Inference for full Ranking**.\
 Jean-Baptiste Fermanian, Pierre Humbert, Gilles Blanchard.\
-Accepted at Neurips 2025. [arXiv](https://arxiv.org/abs/2501.11384) [code](https://github.com/pierreHmbt/transductive-conformal-inference-for-ranking)
+NeurIPS 2025. [arXiv](https://arxiv.org/abs/2501.11384) [code](https://github.com/pierreHmbt/transductive-conformal-inference-for-ranking)
 
 
  - **Estimation of multiple mean vectors in high dimension**.\
