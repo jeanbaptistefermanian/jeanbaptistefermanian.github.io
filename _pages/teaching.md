@@ -17,5 +17,3 @@ redirect_from:
 ## Oral Examiner
 - Mathematics Orals (L3 DD, Paris-Saclay University), 2021-2024.
 - Oral examination (MPSI, Lycée Henri IV), 2020 - 2021.
-
-## test
