@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 ### 2026
+- **CAp : Conférence sur l'Apprentissage Automatique**, Montpellier. *July 2026*
 - **CMAP seminar**, Polytechnique, Gif-sur-Yvette. *April 2026*
 - **Conférence SFR Mathstic**, Angers. *March 2026* 
 - **CIRAD seminar**, CIRAD, Montpellier. *March 2026*
