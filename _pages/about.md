@@ -22,4 +22,4 @@ In October 2024, I have defended my Phd at the University Paris-Saclay that I ha
 
 ## News
 
-I have been recruited as a permanent researcher at Inrae Montpellier in the team DéMo[https://itap.montpellier.hub.inrae.fr/recherches/demo] of ITAP[https://itap.montpellier.hub.inrae.fr/] and will begin in November.
+I have been recruited as a permanent researcher at Inrae Montpellier in the team [DéMo](https://itap.montpellier.hub.inrae.fr/recherches/demo) of [ITAP](https://itap.montpellier.hub.inrae.fr/) and will begin in November.
