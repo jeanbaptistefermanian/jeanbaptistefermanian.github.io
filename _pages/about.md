@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at [PreMeDICal](https://team.inria.fr/premedical/) which is a joint team between Inria and Inserm in Montpellier since October 2025, advised by [Aurélien Bellet](https://researchers.lille.inria.fr/abellet/). I am working with him on personalized federated learning for high dimensional data.
+Since November 2026, I have been a permanent researcher at INRAE Montpellier, in the [DéMo](https://itap.montpellier.hub.inrae.fr/recherches/demo) team of [ITAP](https://itap.montpellier.hub.inrae.fr/). My goal is to take into account the specific constraints of agronomy to develop methods adapted to them.
+
+In 2025-2026, I was a postdoctoral researcher in the team [PreMeDICal](https://team.inria.fr/premedical/), which is a joint team between Inria and Inserm in Montpellier, advised by [Aurélien Bellet](https://researchers.lille.inria.fr/abellet/). I am working with him on personalized federated learning for high dimensional data.
 
 I did in 2024-2025 a postdoc at Alexander Grothendieck Montpellier Institute ([IMAG](https://imag.umontpellier.fr/)) of the university of Montpellier and in [IROKO](https://inria.fr/fr/iroko) team of Inria with [Joseph Salmon](https://josephsalmon.eu/) and [Mohamed Hebiri](https://perso.math.u-pem.fr/hebiri.mohamed/) as advisers. I worked with them on uncertainty quantification with the scope on conformal prediction, in particular motivated by ecological questions and by [Pl@ntNet](https://plantnet.org/), a citizen science plant recognition application developed by IROKO team.
 
