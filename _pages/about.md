@@ -14,7 +14,7 @@ I did in 2024-2025 a postdoc at Alexander Grothendieck Montpellier Institute ([I
 
 In October 2024, I have defended my Phd at the University Paris-Saclay that I have done under the supervision of [Gilles Blanchard](https://www.imo.universite-paris-saclay.fr/~gilles.blanchard/) and [Magalie Fromont](https://perso.univ-rennes2.fr/magalie.fromont).
 
-## Research interests
+## Research interests (among others...)
 
 - Multitask learning
 - Federated learning
@@ -24,4 +24,6 @@ In October 2024, I have defended my Phd at the University Paris-Saclay that I ha
 
 ## News
 
-I have been recruited as a permanent researcher at Inrae Montpellier in the team [DéMo](https://itap.montpellier.hub.inrae.fr/recherches/demo) of [ITAP](https://itap.montpellier.hub.inrae.fr/) and will begin in November.
+- I am serving as a workflow chair for [Aistats 2027](https://virtual.aistats.org/). I am glad to be part of the organizing team.
+
+- I have been recruited as a permanent researcher at Inrae Montpellier in the team [DéMo](https://itap.montpellier.hub.inrae.fr/recherches/demo) of [ITAP](https://itap.montpellier.hub.inrae.fr/) and will begin in November.
